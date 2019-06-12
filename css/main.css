@@ -151,10 +151,10 @@ h2 ~ p {
   height: 80%;
   width: auto;
 }
-.header-logo:hover,
+/*.header-logo:hover,
 .header-logo:active {
   background-color: #ed6e2f;
-}
+}*/
 
 /* DROPDOWN STYLES */
 .dropdown {
