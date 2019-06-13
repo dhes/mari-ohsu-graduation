@@ -1,17 +1,13 @@
 ---
 layout: post
-title: This is the title of the first post
+title: Introducing our family blog
 postHero: /images/rose.jpg
-author: progress.from-ia
+author: Dan Heslinga
 authorTwitter: http://twitter.com/dan_heslinga
 gravatar: https://gravatar.com/avatar/9ab185b983d11de35c6a8230d00fce8d?s=150
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
----
-
-Blog text. 
+postFooter: Nice talking to you!
+--- 
 
 <img class="pull-left" src="http://via.placeholder.com/150" alt="holder">
 
-More blog text. 
-
-Even more. 
+Talk to you again soon!
