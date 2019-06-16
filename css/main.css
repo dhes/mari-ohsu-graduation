@@ -327,7 +327,7 @@ h2 ~ p {
   box-sizing: border-box;
   height: 90vh;
 }
-/*.full-hero:after {
+.full-hero:after {
   border: 10px solid;
   border-color: #fff transparent transparent;
   bottom: 2vh;
@@ -338,7 +338,7 @@ h2 ~ p {
   position: absolute;
   transform: translate(-50%, 0);
   width: 0;
-}*/
+}
 .hero-home {
   background-image: url(/images/rose.jpg);
   background-position: center top;
