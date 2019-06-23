@@ -715,6 +715,10 @@ h2 ~ p {
   .post-aside {
     display: none;
   }
+  .gallery-photo img {
+  /*height: 82vh;*/
+  width: 100%;
+  }
 }
 
 
