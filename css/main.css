@@ -474,7 +474,7 @@ h2 ~ p {
 
 /* GALLERY STYLES */
 .gallery-thumbs {
-  height: 105vh;
+  height: 110vh;
   overflow: scroll;
 }
 .gallery-thumbs > div {
@@ -500,7 +500,6 @@ h2 ~ p {
   position: relative;
 }
 .gallery-photo img {
-  /*height: 82vh;*/
   width: 100%;
 }
 .gallery-info {
